@@ -1,5 +1,5 @@
 # Repository for final project
-Final Project: AI-Based Web Application Development and Deployment
+Final Project: EmoSense (AI-Based Web Application Development and Deployment)
 
 
 Estimated Time: 1 hour 45 minutes
